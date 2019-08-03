@@ -1,0 +1,3 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1564737511500,181,HTTP Request - By name - 401,401,Unauthorized,One city - Error cases 3-1,text,false,,438,180,1,3,https://api.openweathermap.org/data/2.5/weather?appid=1111111111111111111111&q=London,181,0,141
+1564737511682,73,HTTP Request - By name - Others errors,400,Bad Request,One city - Error cases 3-1,text,false,,365,181,1,3,https://api.openweathermap.org/data/2.5/weather?appid=6ba0b81756e3b03376d7b6d65fc73f9e,73,0,0
